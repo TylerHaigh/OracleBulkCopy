@@ -45,3 +45,7 @@ ConnectionStrings.config
 
 # .vs folder
 .vs/
+
+
+
+*.nupkg

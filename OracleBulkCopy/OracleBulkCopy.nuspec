@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.1</version>
+    <title>Oracle Bulk Copy</title>
+    <authors>Tyler Haigh</authors>
+    <owners>Tyler Haigh</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/TylerHaigh/OracleBulkCopy</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Bulk Copy class for use with Oracle Managed Data Access Client</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Oracle Bulk Copy</tags>
+  </metadata>
+</package>
