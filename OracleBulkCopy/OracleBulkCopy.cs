@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Oracle.ManagedDataAccess.Client.BulkCopy
 {
-    class OracleBulkCopy : IDisposable
+    public class OracleBulkCopy : IDisposable
     {
         // https://github.com/Microsoft/referencesource/blob/master/System.Data/System/Data/SqlClient/SqlBulkCopy.cs
         // https://stackoverflow.com/questions/47942691/how-to-make-a-bulk-insert-using-oracle-managed-data-acess-c-sharp
