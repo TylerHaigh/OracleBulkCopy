@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleBulkCopy", "OracleBulkCopy\OracleBulkCopy.csproj", "{994E95EE-7EC0-4A5D-9C84-01905472AEC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleBulkCopy.Standard", "OracleBulkCopy.Standard\OracleBulkCopy.Standard.csproj", "{B9B1173F-AE54-412C-B1ED-09ACC3C8CACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{994E95EE-7EC0-4A5D-9C84-01905472AEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{994E95EE-7EC0-4A5D-9C84-01905472AEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{994E95EE-7EC0-4A5D-9C84-01905472AEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B1173F-AE54-412C-B1ED-09ACC3C8CACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B1173F-AE54-412C-B1ED-09ACC3C8CACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B1173F-AE54-412C-B1ED-09ACC3C8CACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B1173F-AE54-412C-B1ED-09ACC3C8CACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
